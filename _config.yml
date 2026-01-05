@@ -24,13 +24,13 @@ repository               : "dreamfly86/dreamfly86.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Shanhao Zhan"
+  pronouns         : "he/him"# example: "she/her"  
+  bio              : # "Short biography for the left-hand sidebar"
+  location         : "No.4221, Xiang'an South Road, Xiang'an District, Xiamen, 361102, Fujian, China."
+  employer         : "Xiamen University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "shanhao@stu.xmu.edu.cn" 
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "https://github.com/dreamfly86"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
