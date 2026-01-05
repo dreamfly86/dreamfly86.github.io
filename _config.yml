@@ -297,7 +297,7 @@ defaults:
       path: ""
       type: patents
     values:
-      layout: single
+      layout: patent
       author_profile: true
       share: true
       comment: true
