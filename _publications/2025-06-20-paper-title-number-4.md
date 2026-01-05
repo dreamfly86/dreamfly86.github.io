@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "A Review on Federated Learning Architectures for Privacy-Preserving AI: Lightweight and Secure Cloud–Edge–End Collaboration"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-06-20-paper-title-number-4
