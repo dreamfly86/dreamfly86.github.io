@@ -1,0 +1,8 @@
+---
+title: "Financial Payment Grade Multi-Modal Biometric Devices "
+excerpt: "This project used infrared, deep, and visible light multi-modal camera to collect image data and employs a multi-modal deep learning network with multiple feature branches. To enhance the performance of liveness detection using multi frame facial image data, an algorithm based on facial texture and behavior features was designed, improving the accuracy of continuous frame facial liveness detection. Besides, the related equipment was developed."
+collection: portfolio
+date: 2024-03-04
+---
+
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
