@@ -2,7 +2,7 @@
 title: "Research, Development, and Industrialization of AI Edge Computing Node Devices and Application Systems "
 excerpt: "Lightweight AI Edge Computing based on Automatic Machine Learning"
 collection: portfolio
-date: 2023-05-01
+date: 2024-03-14
 ---
 
 ## What have I done?
