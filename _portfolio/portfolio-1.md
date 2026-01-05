@@ -1,7 +1,17 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Research, Development, and Industrialization of AI Edge Computing Node Devices and Application Systems "
+excerpt: "Lightweight AI Edge Computing based on Automatic Machine Learning"
 collection: portfolio
+date: 2023-05-01
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## What have I done?
+- Be responsible for：Algorithm/Hardware Integration/System Architecture
+- Indicator：Accuracy, speed, stability, etc. 
+
+## Technology stack
+OpenCV / PyTorch / C++ / Embedded …
+
+## Achievements
+- Thesis：https://doi.org/10.3390/electronics14132512
+
