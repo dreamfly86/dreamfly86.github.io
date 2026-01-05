@@ -7,6 +7,7 @@ excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-11-08
 publisher: 'arXiv'
 paperurl: 'https://github.com/dreamfly86/dreamfly86.github.io/blob/master/files/2511.05789v1.pdf'
+bibtexurl: 'https://github.com/dreamfly86/dreamfly86.github.io/blob/master/files/2511.05789v1.bib'
 citation: 'Zhan S, Liu Z, Huang L, et al. Digital Twin-Assisted Task Offloading and Resource Allocation in ISAC-Enabled Internet of Vehicles[J]. arXiv preprint arXiv:2511.05789, 2025.'
 ---
 
