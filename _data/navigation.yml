@@ -29,14 +29,14 @@ main:
   - title: "Patents"
     url: /patents/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
 
-  - title: "Contact"
-    url: /contact/
+  # - title: "Contact"
+  #   url: /contact/
     
   - title: "Guide"
     url: /markdown/
