@@ -1,7 +1,7 @@
 ---
 title: "Digital Twin-Assisted Task Offloading and Resource Allocation in ISAC-Enabled Internet of Vehicles"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publication/2025-11-08-paper-title-number-5
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-11-08
