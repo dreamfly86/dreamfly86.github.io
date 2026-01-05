@@ -7,7 +7,7 @@ excerpt: 'This paper is about the number 3. The number 4 is left for future work
 date: 2025-06-20
 publisher: 'MDPI'
 paperurl: 'https://github.com/dreamfly86/dreamfly86.github.io/blob/master/files/electronics-14-02512.pdf'
-biburl: 'https://github.com/dreamfly86/dreamfly86.github.io/blob/master/files/electronics-v14-i13_20260105.bib'
+bibtexurl: 'https://github.com/dreamfly86/dreamfly86.github.io/blob/master/files/electronics-v14-i13_20260105.bib'
 citation: 'Zhan S, Huang L, Luo G, et al. A Review on Federated Learning Architectures for Privacy-Preserving AI: Lightweight and Secure Cloud–Edge–End Collaboration[J]. Electronics, 2025, 14(13): 2512.'
 ---
 
