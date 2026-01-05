@@ -5,4 +5,9 @@ collection: portfolio
 date: 2024-03-04
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## What have I done?
+- Be responsible for：Algorithm/Hardware Integration/System Architecture
+- Indicator：Accuracy, speed, stability, etc. 
+
+## Technology stack
+OpenCV / PyTorch / Android …
