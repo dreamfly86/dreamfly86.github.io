@@ -7,7 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-
-{% for post in site.patents %}
-  {% include archive-single.html %}
+## Published
+{% assign published_list = site.patents | where_exp: "p", "p.granted == nil" | sort: "published" | reverse %}
+{% for post in published_list %}
+  {% include archive-single-patent.html %}
 {% endfor %}
+
+## Granted
+{% assign granted_list = site.patents | where_exp: "p", "p.granted" | sort: "granted" | reverse %}
+{% for post in granted_list %}
+  {% include archive-single-patent.html %}
+{% endfor %}
+
+
