@@ -38,14 +38,12 @@ layout: default
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% if page.published %}
+        {% elsif page.published %}
           <p class="page__date">
             <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published：</strong>
             <time datetime="{{ page.published | date_to_xmlschema }}">{{ page.published | date: "%Y-%m-%d" }}</time>
           </p>
-        {% endif %}
-        
-        {% if page.granted %}
+        {% elsif page.granted %}
           <p class="page__date">
             <strong><i class="fa fa-fw fa-gavel" aria-hidden="true"></i> Granted：</strong>
             <time datetime="{{ page.granted | date_to_xmlschema }}">{{ page.granted | date: "%Y-%m-%d" }}</time>
