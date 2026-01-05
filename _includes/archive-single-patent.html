@@ -1,0 +1,30 @@
+{% if post %}
+  {% assign p = post %}
+{% else %}
+  {% assign p = page %}
+{% endif %}
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2 class="archive__item-title" itemprop="headline">
+      <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+    </h2>
+
+    {% if p.published or p.granted %}
+      <p class="page__meta">
+        {% if p.published %}
+          <span><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published {{ p.published | date: "%Y-%m-%d" }}</span>
+        {% endif %}
+        {% if p.granted %}
+          <span> · <i class="fa fa-fw fa-gavel" aria-hidden="true"></i> Granted {{ p.granted | date: "%Y-%m-%d" }}</span>
+        {% endif %}
+      </p>
+    {% endif %}
+
+    {% if p.excerpt %}
+      <p class="archive__item-excerpt" itemprop="description">
+        {{ p.excerpt | markdownify | strip_html | strip_newlines | truncate: 200 }}
+      </p>
+    {% endif %}
+  </article>
+</div>
