@@ -35,7 +35,7 @@ main:
   # - title: "CV"
   #   url: /cv-json/
 
-  - title: "联系"
+  - title: "Contact"
     url: /contact/
     
   - title: "Guide"
