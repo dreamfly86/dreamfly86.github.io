@@ -7,7 +7,7 @@ excerpt: 'This paper is about the number 2. The number 3 is left for future work
 date: 2025-04-01
 publisher: 'Elsevier'
 paperurl: 'https://github.com/dreamfly86/dreamfly86.github.io/blob/master/files/An_incentive_mechanism_for_joint_sensing_and_communication_Vehicular_Crowdsensing_by_Deep_Reinforcement_Learning.pdf'
-biburl: 'https://github.com/dreamfly86/dreamfly86.github.io/blob/master/files/An_incentive_mechanism_for_joint_sensing_and_communication_Vehicular_Crowdsensing_by_Deep_Reinforcement_Learning.bib'
+bibtexurl: 'https://github.com/dreamfly86/dreamfly86.github.io/blob/master/files/An_incentive_mechanism_for_joint_sensing_and_communication_Vehicular_Crowdsensing_by_Deep_Reinforcement_Learning.bib'
 citation: 'Luo G, Zhan S, Liang C, et al. An incentive mechanism for joint sensing and communication Vehicular Crowdsensing by Deep Reinforcement Learning[J]. Computer Networks, 2025, 260: 111099.'
 ---
 
