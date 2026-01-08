@@ -1,7 +1,7 @@
 ---
 title: "Beam Prediction Method and Device for Internet of Vehicles Based on Multi-Modal Large Model"
 collection: patents
-published: 2025-06-17
+granted: 2025-06-17
 ---
 
 # How an AI That "Sees" Radio Waves Will Keep Your Future Car Perfectly Connected
