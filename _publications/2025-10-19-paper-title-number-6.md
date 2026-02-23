@@ -1,5 +1,4 @@
 ---
-​---
 title: "HGSTA: Leveraging Hypergraph Computing for Effective Collaborative Perception Feature Fusion"
 collection: publications
 category: conferences
@@ -9,10 +8,6 @@ date: 2025-10-19
 publisher: '2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall)'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 citation: 'S. Zheng, S. Zhan, Z. Gao and L. Huang, "HGSTA: Leveraging Hypergraph Computing for Effective Collaborative Perception Feature Fusion," 2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall), Chengdu, China, 2025, pp. 1-6.'
-​---
-
-Here is the introduction for the paper **"HGSTA: Leveraging Hypergraph Computing for Effective Collaborative Perception Feature Fusion"** tailored for your academic homepage:
-
 ​---
 
 ### **Research Background & Motivation**
@@ -31,7 +26,6 @@ Extensive evaluations were conducted on three major collaborative driving benchm
 *   **Exceptional Robustness**: The framework maintained highly stable detection accuracy even when injected with severe real-world disturbances, including **localization noise (up to 0.5m deviation)** and **communication delays (up to 200ms)**.
 
 ​---
-
 ### **Analogy for Understanding**
 Imagine several witnesses (autonomous vehicles) trying to describe a chaotic intersection to a police officer. 
 Traditional methods (Standard Graphs) act like the officer interviewing each witness **one-on-one**, which makes it hard to piece together the global picture, especially if someone’s watch is wrong (time delay) or they are confused about where they were standing (localization error). 
