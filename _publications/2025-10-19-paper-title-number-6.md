@@ -8,7 +8,7 @@ date: 2025-10-19
 publisher: '2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall)'
 paperurl: 'https://github.com/dreamfly86/dreamfly86.github.io/blob/master/files/HGSTA_Leveraging_Hypergraph_Computing_for_Effective_Collaborative_Perception_Feature_Fusion.pdf'
 bibtexurl: 'https://github.com/dreamfly86/dreamfly86.github.io/blob/master/files/HGSTA_Leveraging_Hypergraph_Computing_for_Effective_Collaborative_Perception_Feature_Fusion.bib'
-citation: 'S. Zheng, S. Zhan, Z. Gao and L. Huang, "HGSTA: Leveraging Hypergraph Computing for Effective Collaborative Perception Feature Fusion," 2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall), Chengdu, China, 2025, pp. 1-6.'
+citation: 'Zheng S, Zhan S, Gao Z, et al. HGSTA: Leveraging Hypergraph Computing for Effective Collaborative Perception Feature Fusion[C]//2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall). IEEE, 2025: 1-6.'
 ​---
 
 ### **Research Background & Motivation**
