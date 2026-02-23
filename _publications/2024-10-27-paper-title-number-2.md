@@ -6,7 +6,7 @@ permalink: /publication/2024-10-24-paper-title-number-2
 excerpt: 'This paper introduces an innovative Tripartite Evolutionary Game framework to optimize the integration of sensing, communication, and computation (ISCC) in vehicle networks. By utilizing a task-driven three-layer architecture and a unified QoS utility function, the proposed strategy achieves optimal resource scheduling and a 43.9% reward gain in mature collaborative environments.'
 date: 2024-10-24
 publisher: '2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall)'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://github.com/dreamfly86/dreamfly86.github.io/blob/master/files/QoS-Aware_Tripartite_Evolutionary_Game_Strategy_A_Task-Driven_Performance_Optimization_Based_on_ISCC_for_IoV.pdf'
 citation: 'Zhan S, Luo G, Gao Z, et al. QoS-Aware Tripartite Evolutionary Game Strategy: A Task-Driven Performance Optimization Based on ISCC for IoV[C] 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall). IEEE, 2024: 1-6.'
 ---
 
