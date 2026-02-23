@@ -6,7 +6,8 @@ permalink: /publication/2025-10-19-paper-title-number-6
 excerpt: 'This paper introduces HGSTA, a pioneering collaborative perception framework that leverages Hypergraph Computing to fuse multi-agent sensor data. By capturing high-order semantic relationships and utilizing a Deformable Attention Module to correct spatiotemporal misalignments, HGSTA achieves state-of-the-art 3D object detection accuracy and exceptional robustness against GPS errors and network delays in autonomous driving scenarios.'
 date: 2025-10-19
 publisher: '2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall)'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://github.com/dreamfly86/dreamfly86.github.io/blob/master/files/HGSTA_Leveraging_Hypergraph_Computing_for_Effective_Collaborative_Perception_Feature_Fusion.pdf'
+bibtexurl: 'https://github.com/dreamfly86/dreamfly86.github.io/blob/master/files/HGSTA_Leveraging_Hypergraph_Computing_for_Effective_Collaborative_Perception_Feature_Fusion.bib'
 citation: 'S. Zheng, S. Zhan, Z. Gao and L. Huang, "HGSTA: Leveraging Hypergraph Computing for Effective Collaborative Perception Feature Fusion," 2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall), Chengdu, China, 2025, pp. 1-6.'
 ​---
 
