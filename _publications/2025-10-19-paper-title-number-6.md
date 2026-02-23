@@ -25,7 +25,6 @@ Extensive evaluations were conducted on three major collaborative driving benchm
 *   **State-of-the-Art Accuracy**: HGSTA outperformed leading baselines (like V2X-ViT and CoBEVT), surpassing the previous best by **5.06% and 3.28% in AP@0.7** on the OPV2V and V2XSet datasets, respectively.
 *   **Exceptional Robustness**: The framework maintained highly stable detection accuracy even when injected with severe real-world disturbances, including **localization noise (up to 0.5m deviation)** and **communication delays (up to 200ms)**.
 
-​---
 ### **Analogy for Understanding**
 Imagine several witnesses (autonomous vehicles) trying to describe a chaotic intersection to a police officer. 
 Traditional methods (Standard Graphs) act like the officer interviewing each witness **one-on-one**, which makes it hard to piece together the global picture, especially if someone’s watch is wrong (time delay) or they are confused about where they were standing (localization error). 
