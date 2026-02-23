@@ -9,8 +9,7 @@ publisher: '2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall)'
 paperurl: 'https://github.com/dreamfly86/dreamfly86.github.io/blob/master/files/HGSTA_Leveraging_Hypergraph_Computing_for_Effective_Collaborative_Perception_Feature_Fusion.pdf'
 bibtexurl: 'https://github.com/dreamfly86/dreamfly86.github.io/blob/master/files/HGSTA_Leveraging_Hypergraph_Computing_for_Effective_Collaborative_Perception_Feature_Fusion.bib'
 citation: 'Zheng S, Zhan S, Gao Z, et al. HGSTA: Leveraging Hypergraph Computing for Effective Collaborative Perception Feature Fusion[C] 2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall). IEEE, 2025: 1-6.'
-​---
-
+---
 ### **Research Background & Motivation**
 Collaborative perception allows autonomous systems (like connected vehicles) to share sensor data, significantly improving their ability to navigate complex, occluded, and dynamic environments. However, sharing intermediate semantic features often suffers from **spatiotemporal misalignments** caused by sensor heterogeneity, transmission latency, and localization errors. Furthermore, most existing fusion methods rely on simple pairwise interactions (one-to-one), neglecting the **higher-order dependencies** across multiple agents that are crucial for robust perception in noisy real-world settings.
 
